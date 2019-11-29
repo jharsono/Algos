@@ -1,0 +1,14 @@
+{
+  "name": "jharsono-algos",
+  "version": "1.0.0",
+  "description": "algorithm practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
